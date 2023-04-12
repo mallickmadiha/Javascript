@@ -82,7 +82,7 @@ console.log(user_input)
 
 ### 7. Write a program that converts a string to uppercase and prints the result to the console.
 
-<br/
+<br/>
 
 ```js
 
